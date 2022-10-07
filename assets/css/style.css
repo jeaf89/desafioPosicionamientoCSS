@@ -1,0 +1,80 @@
+body{
+    margin: 0;
+    background-color: black;
+}
+
+section {
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+section h1{
+    margin: 0;
+    font-size: 200%;
+}
+
+.parrafo-imagen{
+
+    display: flex;
+    align-items: center;
+}
+
+.parrafo{
+    color: white;
+    width: 35%;
+    margin-left: 7%;
+}
+
+.iguanaUno{
+    width: 25%;
+    /*margin-right: 14%;*/
+    margin-left: 19%;
+}
+
+.Caracteristicas{
+    background-color: rgba(31, 20, 20, 0.829);
+}
+
+section h2{
+    display: block;
+    text-align: center;
+    padding: 2%;
+    font-size: 300%;
+}
+
+.features{
+    display: inline-block;
+    width: 30%;
+}
+
+i{
+    font-size: 250%;
+    padding-bottom: 2%;
+}
+
+#almacenFotos{
+    padding: 7%;
+}
+
+.fotos2{
+    display: inline-block;
+    width: 33.5%;
+}
+
+.fotos3{
+    display: inline-block;
+    width: 29%;
+}
+
+.fotos4{
+    display: inline-block;
+    width: 28.4%;
+}
+
+.footer{
+    text-align: center;
+    background-color: rgba(31, 20, 20, 0.829);
+    color: white;
+    padding: 2%;
+}
